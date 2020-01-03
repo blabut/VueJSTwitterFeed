@@ -3,6 +3,8 @@ This repo contains a VueJS component for embedding a Twitter Feed on a Vue WebAp
 
 ## Installation 
 
+Add to your node project using:
+
 `npm install --save vuejs-twitter-feed`
 
 ## Usage 
