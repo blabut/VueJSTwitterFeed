@@ -30,3 +30,14 @@ For information about the different types of feeds you can embed, visit https://
 | src                           | String          |             | link to the twitter feed to embed        |
 | dark                          | Boolean         | False       | wether the theme should be dark or light |
 | dataLinkColor                 | String          | '#2B7BB9'   | text color of embedded links in the feed |
+
+
+## Screenshots
+
+### Light theme
+
+![light theme](doc/img/light.png)
+
+### Dark theme
+
+![dark theme](doc/img/dark.png)
